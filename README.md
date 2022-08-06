@@ -1,1 +1,1 @@
-# Modelagem-de-vibra-es-para-sistemas-de-m-ltiplos-graus-de-liberdade
+# Modelagem de vibrações para sistemas de múltiplos graus de liberdade
