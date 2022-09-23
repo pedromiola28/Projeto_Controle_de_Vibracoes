@@ -1,5 +1,7 @@
-Modelagem de vibrações para sistemas de múltiplos graus de liberdade. Projeto realizado em 2022 na disciplina de Controle de Vibrações do curso de Engenharia Mecânica da Universidade Federal de Santa Catarina.
+# Vibration Control Project
 
-Os dados utilizados foram obtidos através de um experimento realizado com a estrutura em questão e um martelo de impacto.
+Vibration modelling for a multiple degrees of freedom system (a structural model of a 3 floor building). This was developed in 2022 as a project from Vibration Control discipline from Federal University of Santa Catarina's Mechanical Engineering course.
 
-Autores: Gustavo Paul Exel e Pedro Miola Silva.
+In the project, we used experimental data obtained with an impact hammer to determine the natural frequency vibration of the structure. 
+
+Authors: Gustavo Paul Exel e Pedro Miola Silva.
